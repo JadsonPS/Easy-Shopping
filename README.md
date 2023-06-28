@@ -1,12 +1,17 @@
 <h1> Easy-Shopping  </h1> 
-<br>
-<br>
+
 
 <h2>Tecnologias utilizadas</h2>
-<br>
- <p>
-   -HTML
-   -CSS
- </p>
 
+<ul>
+  <li>-HTML</li>
+  <li>-CSS</li>
+</ul>
+
+
+<h2>Sobre o projeto</h2>
+<p>O Projetos é uma pagina Landing Page simples usando HTML e CSS</p>
+
+
+<br>
 <img src="https://github.com/JadsonPS/Easy-Shopping/blob/master/assets/Desktop.png?raw=true">
