@@ -8,6 +8,11 @@
   <li>-CSS</li>
 </ul>
 
+<h2>Características</h2>
+
+<ul>
+  <li>-Responsividade</li>
+</ul>
 
 <h2>Sobre o projeto</h2>
 <p>O Projetos é uma pagina Landing Page simples usando HTML, CSS e Responsividade.</p>
