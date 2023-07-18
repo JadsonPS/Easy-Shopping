@@ -10,7 +10,7 @@
 
 
 <h2>Sobre o projeto</h2>
-<p>O Projetos é uma pagina Landing Page simples usando HTML e CSS</p>
+<p>O Projetos é uma pagina Landing Page simples usando HTML, CSS e Responsividade.</p>
 
 
 <br>
